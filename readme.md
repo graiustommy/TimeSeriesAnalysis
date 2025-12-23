@@ -120,7 +120,7 @@ plotly>=5.0.0
 ### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/time-series-analysis-course.git
+git clone https://github.com/graiustommy/TimeSeriesAnalysis.git
 cd time-series-analysis-course
 ```
 
@@ -166,10 +166,10 @@ jupyter lab
 ## 6. Структура репозитория
 
 ```
-time-series-analysis-course/
+TimeSeriesAnalysis/
 ├── README.md                          # Основная документация
 ├── requirements.txt                   # Зависимости проекта
-├── setup.py                           # Конфигурация пакета (опционально)
+├── setup.py                           # Конфигурация пакета 
 ├── LICENSE                            # Лицензия
 ├── CONTRIBUTING.md                    # Гайдлайны для контрибьюторов
 │
@@ -347,7 +347,6 @@ time-series-analysis-course/
 Полный текст лицензии см. в файле [LICENSE](LICENSE)
 
 ---
-
 ## 14. Часто задаваемые вопросы
 
 **В: Какой опыт программирования требуется для прохождения курса?**
@@ -384,9 +383,8 @@ time-series-analysis-course/
 
 ## 15. Контакты и поддержка
 
-- **GitHub Issues**: https://github.com/yourusername/time-series-analysis-course/issues
-- **GitHub Discussions**: https://github.com/yourusername/time-series-analysis-course/discussions
-- **Email**: contact@example.com
+- **GitHub Issues**: https://github.com/graiustommy/TimeSeriesAnalysis/issues
+- **GitHub Discussions**: https://github.com/graiustommy/TimeSeriesAnalysis/discussions
 
 ---
 
