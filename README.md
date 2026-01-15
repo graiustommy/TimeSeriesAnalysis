@@ -121,9 +121,8 @@ plotly>=5.0.0
 
 ```bash
 git clone https://github.com/graiustommy/TimeSeriesAnalysis.git
-cd time-series-analysis-course
-```
-
+cd TimeSeriesAnalysis
+``````
 ### Шаг 2: Создание виртуального окружения
 
 Для Linux/macOS:
